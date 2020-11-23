@@ -10,6 +10,9 @@
 
 ## Description
 
+Lesson Works is a MERN (MongoDB, Express, React, and Nodejs) app that allows users to have an efficient space to find, organize, and annotate their lesson plans.
+
+
 ## User Story
 ```
 AS a teacher I want to be able to access lesson plans in a more organized and searchable fashion
